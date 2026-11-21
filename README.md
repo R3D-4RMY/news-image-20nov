@@ -12,8 +12,6 @@ News image for 20 November 2026 — a code-drawn infographic summing up the day'
 node main.ts
 ```
 
-This copies `entry.png` (a 1024×1024 code-drawn newspaper infographic: Cyclone Akvan, the Shenzhen declaration, the ICJ Myanmar ruling, missiles down in Poland, the Anthropic IPO, the markets slide, COP31, the EU–UK summit, and more) to the output directory.
-
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=vwt7q0g0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards</sub>
